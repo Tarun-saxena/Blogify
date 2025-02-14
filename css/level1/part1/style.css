@@ -1,0 +1,14 @@
+/* element selector */
+h1{color: rgb(228, 13, 31);}
+p{color: rgb(236, 112, 188);}
+button{color: chocolate;background-color: #ffcccc;}
+body{background-color: rgba(43, 42, 42, 0.249);}
+
+/* universal selctor */
+*{color: blueviolet;}
+
+/* id selector */
+#title{color: rgb(104, 6, 105);}
+
+/* class selector */
+.first{color: chocolate;}

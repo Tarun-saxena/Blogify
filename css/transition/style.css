@@ -1,0 +1,4 @@
+#box{width: 200px;height: 150px;background-color: brown;transition-property:all;transition-duration:2s;transition-timing-function: linear;transition-delay: 1s;margin-top: 10px;margin-left: 10px;}
+
+#box:hover{ width: 800px;background-color: blue;}
+

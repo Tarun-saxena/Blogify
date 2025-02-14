@@ -1,0 +1,4 @@
+div{height: 50px;width: 50px;background-color: crimson;}
+@media(width <400px){
+    div{background-color: aquamarine;}
+}
