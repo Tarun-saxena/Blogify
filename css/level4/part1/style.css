@@ -1,9 +1,0 @@
-h1{text-align: center;}
-body{text-align: center;}
-div{height: 100px;width: 100px;display: inline-block;border: 2px solid black}
-#box{width: 800px;height: 200px;display: flex;flex-direction: row;justify-content: center;justify-content: space-around;flex-wrap: wrap;}
-#box1{background-color: aqua;}
-#box2{background-color: pink;}
-#box3{background-color: darkgoldenrod;}
-#box4{background-color: red;}
-#box5{background-color: purple;}

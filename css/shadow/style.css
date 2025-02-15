@@ -1,7 +1,0 @@
-#inner{background-image: url("photo.jpg");height: 200px;width: 150px;background-size: cover;box-shadow: rgb(38, 57, 77) 0px 10px 30px -10px;}
-.box{display: flex;justify-content: center;align-items: center;}
-h1 {
-    color: rgb(36, 32, 32);
-    text-shadow: 2px 2px 3px #988d8d;text-align: center;
-    margin-top: 0px;
-  }
